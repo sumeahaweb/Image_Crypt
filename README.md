@@ -14,4 +14,5 @@ Hides data in images using LSB
 Secure extraction with key + message length
 Output image saved in script folder
 
-By Yuvashree
+
+
